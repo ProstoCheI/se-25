@@ -1,0 +1,13 @@
+{
+  "name": "lab6-wb-scraper",
+  "version": "1.0.0",
+  "description": "Lab 6: collect product data from search.wb.ru",
+  "main": "lab_6.js",
+  "scripts": {
+    "start": "node lab_6.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "minimist": "^1.2.8"
+  }
+}

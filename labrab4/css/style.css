@@ -1,0 +1,12 @@
+input[type="text"],
+input[type="number"] {
+    width: 220px;
+    padding: 5px 10px;
+    margin: 5px 0;
+    text-align: center;
+}
+
+button {
+    width: 245px;
+    padding: 2px;
+}
