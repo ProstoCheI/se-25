@@ -1,0 +1,148 @@
+{
+	"description": "Набор клиентов",
+	"clients": [
+		{
+			"id": "C-1001",
+			"isActive": true,
+			"age": 36,
+			"name": "Иван Соколов",
+			"gender": "male",
+			"company": "AltData",
+			"email": "ivan.sokolov@altdata.example",
+			"phone": "+7 (912) 000-1001",
+			"address": { "city": "Кунгур", "street": "Ленина", "apartment": "2-21" }
+		},
+		{
+			"id": "C-1002",
+			"isActive": true,
+			"age": 21,
+			"name": "Мария Новикова",
+			"gender": "female",
+			"company": "NovaTech",
+			"email": "m.novikova@novatech.example",
+			"phone": "+7 (902) 111-2002",
+			"address": { "city": "Кунгур", "street": "Гайдара", "apartment": "14-18" }
+		},
+		{
+			"id": "C-1003",
+			"isActive": true,
+			"age": 30,
+			"name": "Сергей Миронов",
+			"gender": "male",
+			"company": "SoftField",
+			"email": "s.mironov@softfield.example",
+			"phone": "+7 (903) 222-3003",
+			"address": { "city": "Соликамск", "street": "Пушкина", "apartment": "5-47" }
+		},
+		{
+			"id": "C-1004",
+			"isActive": true,
+			"age": 35,
+			"name": "Ольга Демидова",
+			"gender": "female",
+			"company": "GreenByte",
+			"email": "o.demidova@greenbyte.example",
+			"phone": "+7 (904) 333-4004",
+			"address": { "city": "Кунгур", "street": "Шишкина", "apartment": "6-33" }
+		},
+		{
+			"id": "C-1005",
+			"isActive": true,
+			"age": 21,
+			"name": "Анна Лескова",
+			"gender": "female",
+			"company": "Emeral",
+			"email": "anna.leskova@emeral.example",
+			"phone": "+7 (905) 444-5005",
+			"address": { "city": "Кунгур", "street": "Пушкина", "apartment": "22-10" }
+		},
+		{
+			"id": "C-1006",
+			"isActive": false,
+			"age": 42,
+			"name": "Павел Романов",
+			"gender": "male",
+			"company": "OrgaSys",
+			"email": "p.romanov@orgasys.example",
+			"phone": "+7 (906) 555-6006",
+			"address": { "city": "Соликамск", "street": "Медовая", "apartment": "32-27" }
+		},
+		{
+			"id": "C-1007",
+			"isActive": true,
+			"age": 37,
+			"name": "Денис Федоров",
+			"gender": "male",
+			"company": "TweetLab",
+			"email": "d.fedorov@tweetlab.example",
+			"phone": "+7 (907) 666-7007",
+			"address": { "city": "Кунгур", "street": "Пушкина", "apartment": "10-36" }
+		},
+		{
+			"id": "C-1008",
+			"isActive": true,
+			"age": 21,
+			"name": "Екатерина Волкова",
+			"gender": "female",
+			"company": "IBMatrix",
+			"email": "katya.volkova@ibmatrix.example",
+			"phone": "+7 (908) 777-8008",
+			"address": { "city": "Кунгур", "street": "Пушкина", "apartment": "10-36" }
+		},
+		{
+			"id": "C-1009",
+			"isActive": true,
+			"age": 29,
+			"name": "Николай Петров",
+			"gender": "male",
+			"company": "ArtGroup",
+			"email": "n.petrov@artgroup.example",
+			"phone": "+7 (909) 888-9009",
+			"address": { "city": "Кунгур", "street": "Ленина", "apartment": "16-77" }
+		},
+		{
+			"id": "C-1010",
+			"isActive": true,
+			"age": 42,
+			"name": "Михаил Кузнецов",
+			"gender": "male",
+			"company": "GreenDail",
+			"email": "m.kuznetsov@greendail.example",
+			"phone": "+7 (910) 999-0010",
+			"address": { "city": "Кунгур", "street": "Ленина", "apartment": "16-52" }
+		},
+		{
+			"id": "C-1011",
+			"isActive": true,
+			"age": 35,
+			"name": "Владислав Бобров",
+			"gender": "male",
+			"company": "GreenDail",
+			"email": "v.bobrov@greendail.example",
+			"phone": "+7 (911) 111-1011",
+			"address": { "city": "Кунгур", "street": "Ленина", "apartment": "55-12" }
+		},
+		{
+			"id": "C-1012",
+			"isActive": true,
+			"age": 35,
+			"name": "Вера Бронова",
+			"gender": "female",
+			"company": "BritaCo",
+			"email": "v.br@britaco.example",
+			"phone": "+7 (912) 222-1212",
+			"address": { "city": "Соликамск", "street": "Мира", "apartment": "2-16" }
+		},
+		{
+			"id": "C-1013",
+			"isActive": true,
+			"age": 37,
+			"name": "Наталья Нестеровa",
+			"gender": "female",
+			"company": "GreenDail",
+			"email": "n.nesterova@greendail.example",
+			"phone": "+7 (913) 333-1313",
+			"address": { "city": "Кунгур", "street": "Пушкина", "apartment": "2-19" }
+		}
+	]
+}
