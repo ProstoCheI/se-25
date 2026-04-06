@@ -1,0 +1,12 @@
+{
+  "name": "lr5",
+  "version": "1.0.0",
+  "description": "Лабораторная работа по Express.js",
+  "main": "Lr5.js",
+  "scripts": {
+    "start": "node Lr5.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
